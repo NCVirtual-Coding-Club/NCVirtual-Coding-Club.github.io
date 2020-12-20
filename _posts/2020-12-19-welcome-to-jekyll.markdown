@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the AP and Honors Buddy Program Website"
+title:  "Welcome to the NCVirutal Coding Club Website!"
 date:   2020-12-19 22:01:48 -0500
 categories: jekyll update
 ---
